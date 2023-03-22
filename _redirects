@@ -1,2 +1,2 @@
 /  https://docs.konghq.com/
-/konnect/not-found  https://docs.konghq.com/konnect/
+/konnect/*  https://docs.konghq.com/konnect/api/errors/#:splat
